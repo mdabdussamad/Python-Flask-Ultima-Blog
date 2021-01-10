@@ -1,0 +1,22 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/ultimablog",
+        "prod_uri":"mysql://root:@localhost/ultimablog",
+        "tw_url":"https://twitter.com/",
+        "fb_url":"https://facebook.com/",
+        "gh_url":"https://github.com/",
+        "blog_name":"Relaince Blog",
+        "tag_line":"A blog liked by Jio users",
+        "gmail-user":"YourEmail@gmail.com",
+        "gmail-password":"YourGmailPassword",
+        "about_text": "Hi my name is Md. Abdussamad and I create programming tutorials and I am a good boy",
+        "no_of_posts": 3,
+        "login_image":"login.svg",
+        "admin_user":"admin",
+        "admin_password": "admin",
+        "upload_location":"C:\\Users\\Abdussamad\\Desktop\\Python-Flask-Project\\Flask-ultima-blog\\static\\img-uploaded"
+        
+    }
+}
